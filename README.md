@@ -1,7 +1,7 @@
 # Лидеры цифровой трансформации 2022
 LoLTech
 
-#База данных
+# База данных
 Мы создали реляционную базу данных на основе MySQL
 ![Image alt](https://github.com/sonikom/-/blob/main/sql1.jpg)
 ![Image alt](https://github.com/sonikom/-/blob/main/sql2.jpg)
@@ -11,7 +11,7 @@ LoLTech
 ![Image alt](https://github.com/sonikom/-/blob/main/users.jpg)
 
 
-#Аномальность 
+# Аномальность 
 
 Мы исследовали различные параметры. чтобы определить аномальность заявок. Нагляднее всего это показано на рисунке.
 ![Image alt](https://github.com/sonikom/-/blob/main/anomaly.png)
