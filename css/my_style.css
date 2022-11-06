@@ -1,0 +1,32 @@
+#showmore-triger {
+	text-align: center;
+	padding: 10px;
+	background: #ffdfdf;
+}
+ 
+/* Вывод товаров */
+.prod-list {
+	overflow: hidden;
+	margin: 0 0 20px 0;
+}
+.prod-item {
+	width: 174px;
+	height: 230px;
+	float: left;
+	border: 1px solid #ddd;
+	padding: 20px;
+	margin: 0 20px 20px 0;
+	text-align: center;
+	border-radius: 6px;
+}
+.prod-item-img {
+	width: 100%;
+}
+.prod-item-name {
+	font-size: 13px;
+	line-height: 16px;
+}
+ 
+.prod-list .prod-item:nth-child(3n) {
+	margin-right: 0
+}
